@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectId" id="1sXri3ErWgK9ZROMajg9gcEJiYl" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="modelo" />
+      <recent name="test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="persistencia" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="view_Controller.Main" />
+      <module name="ProyectoBuscaMinas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view_Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartidaxInterfazTest.crarTablero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProyectoBuscaMinas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.PartidaxInterfazTest" />
+      <option name="METHOD_NAME" value="crarTablero" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartidaxInterfazTest.crearTablero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProyectoBuscaMinas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.PartidaxInterfazTest" />
+      <option name="METHOD_NAME" value="crearTablero" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemporizadorTest.testGetTiempoEmpleadoHora" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProyectoBuscaMinas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TemporizadorTest" />
+      <option name="METHOD_NAME" value="testGetTiempoEmpleadoHora" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemporizadorTest.testGetTiempoEmpleadoMinutos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProyectoBuscaMinas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TemporizadorTest" />
+      <option name="METHOD_NAME" value="testGetTiempoEmpleadoMinutos" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemporizadorTest.testGetTiempoEmpleadoSegundos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProyectoBuscaMinas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TemporizadorTest" />
+      <option name="METHOD_NAME" value="testGetTiempoEmpleadoSegundos" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PartidaxInterfazTest.crearTablero" />
+        <item itemvalue="JUnit.PartidaxInterfazTest.crarTablero" />
+        <item itemvalue="JUnit.TemporizadorTest.testGetTiempoEmpleadoSegundos" />
+        <item itemvalue="JUnit.TemporizadorTest.testGetTiempoEmpleadoMinutos" />
+        <item itemvalue="JUnit.TemporizadorTest.testGetTiempoEmpleadoHora" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1621029905122" duration="27481000" />
+      <workItem from="1622066679576" duration="9039000" />
+      <workItem from="1622077296753" duration="774000" />
+      <workItem from="1622078077318" duration="1076000" />
+      <workItem from="1622087438214" duration="252000" />
+      <workItem from="1622210292299" duration="5201000" />
+      <workItem from="1622219126176" duration="5544000" />
+      <workItem from="1622262622244" duration="11813000" />
+      <workItem from="1622309057873" duration="5040000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1622318612913">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1622219785359" />
+    <state x="533" y="186" key="#com.intellij.ide.util.MemberChooser/0.23.1440.849@0.23.1440.849" timestamp="1622318612913" />
+    <state x="373" y="143" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1622332494046">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state x="373" y="143" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.849@0.23.1440.849" timestamp="1622332494046" />
+    <state width="1125" height="296" key="GridCell.Tab.0.bottom" timestamp="1622333388549">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state width="1398" height="186" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1622265981805" />
+    <state width="1125" height="296" key="GridCell.Tab.0.bottom/0.23.1440.849@0.23.1440.849" timestamp="1622333388549" />
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.851@0.23.1440.851" timestamp="1621082334861" />
+    <state width="952" height="97" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1622309541298" />
+    <state width="1125" height="296" key="GridCell.Tab.0.center" timestamp="1622333388549">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state width="1398" height="186" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1622265981804" />
+    <state width="1125" height="296" key="GridCell.Tab.0.center/0.23.1440.849@0.23.1440.849" timestamp="1622333388549" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.851@0.23.1440.851" timestamp="1621082334859" />
+    <state width="952" height="97" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1622309541297" />
+    <state width="1125" height="296" key="GridCell.Tab.0.left" timestamp="1622333388548">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state width="1398" height="186" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1622265981804" />
+    <state width="1125" height="296" key="GridCell.Tab.0.left/0.23.1440.849@0.23.1440.849" timestamp="1622333388548" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.851@0.23.1440.851" timestamp="1621082334859" />
+    <state width="952" height="97" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1622309541296" />
+    <state width="1125" height="296" key="GridCell.Tab.0.right" timestamp="1622333388549">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state width="1398" height="186" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1622265981805" />
+    <state width="1125" height="296" key="GridCell.Tab.0.right/0.23.1440.849@0.23.1440.849" timestamp="1622333388549" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.851@0.23.1440.851" timestamp="1621082334860" />
+    <state width="952" height="97" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1622309541297" />
+    <state x="222" y="70" key="SettingsEditor" timestamp="1622332047501">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state x="222" y="70" key="SettingsEditor/0.23.1440.849@0.23.1440.849" timestamp="1622332047501" />
+    <state x="417" y="349" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1622222585056">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="417" y="349" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1622222585056" />
+    <state x="713" y="143" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1622227737079">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="713" y="143" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1622227737079" />
+    <state x="476" y="80" width="604" height="735" key="find.popup" timestamp="1622331934836">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state x="476" y="80" width="604" height="735" key="find.popup/0.23.1440.849@0.23.1440.849" timestamp="1622331934836" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1622300339103">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1622300339103" />
+  </component>
+</project>
